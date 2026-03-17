@@ -1,2 +1,12 @@
-# fastapi-users-api
-APIs REST creadas con Python utilizando mocks para persistencia y muestra de datos
+# fastAPI Users api
+API REST desarrollada con FastAPI para gestión de usuarios.
+
+## 🚀 Tecnologías
+- Python
+- FastAPI
+- Uvicorn
+
+## 📦 Instalación
+
+```bash
+pip install -r requirements.txt
